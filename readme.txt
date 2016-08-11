@@ -4,4 +4,4 @@ Git is free software distributd under the GPL.
 Git has a mutable index area called stage
 Git tracks the file changes.
 git only care about the file changes, nothing else.
-Creating a new dev branch is quick.
+Creating a NEW dev branch is quick and simple.
